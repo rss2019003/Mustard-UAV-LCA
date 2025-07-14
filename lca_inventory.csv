@@ -1,0 +1,145 @@
+Stage,Nozzle,Height,manufacture_co2,manufacture_energy,battery_kwh,dye_kg,water_L,oil_L
+Rosette,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Rosette,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Flowering,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan (N-1),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Flat Fan - Wide (N-2),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Hollow Cone (N-3),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),1.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),2.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),2.5,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001
+Pod Formation,Twin Flat Fan (N-4),3.0,20.0,200.0,2.0,0.0025,100.0,0.001

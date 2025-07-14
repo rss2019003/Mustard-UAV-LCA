@@ -1,0 +1,4 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Flowering,Pod Formation,2.6913,0.2769,-1.4567,6.8392,False
+Flowering,Rosette,1.1902,0.7757,-2.9577,5.3382,False
+Pod Formation,Rosette,-1.501,0.6681,-5.649,2.6469,False

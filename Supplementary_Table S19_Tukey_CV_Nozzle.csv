@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Flat Fan (N-1),Flat Fan - Wide (N-2),0.0664,0.9997,-1.6777,1.8105,False
+Flat Fan (N-1),Hollow Cone (N-3),-0.9703,0.4727,-2.7143,0.7738,False
+Flat Fan (N-1),Twin Flat Fan (N-4),-0.5058,0.8748,-2.2499,1.2382,False
+Flat Fan - Wide (N-2),Hollow Cone (N-3),-1.0367,0.4133,-2.7807,0.7074,False
+Flat Fan - Wide (N-2),Twin Flat Fan (N-4),-0.5722,0.8288,-2.3163,1.1718,False
+Hollow Cone (N-3),Twin Flat Fan (N-4),0.4644,0.8998,-1.2796,2.2085,False
